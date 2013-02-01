@@ -1,5 +1,7 @@
 # Thigmotropic, a theme for TextMate
 
+![screenshot](./screenshot.png)
+
 Find a bug or want to contribute? Open a ticket on [github][github].
 You're also welcome to send me email at [dsc@less.ly][mail].
 
